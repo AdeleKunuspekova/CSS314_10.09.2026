@@ -1,0 +1,6 @@
+config,time_seconds
+baseline_1thread_no_lock,0.1168642999837175
+critical_P1,0.3087373999878764
+critical_P2,0.3286065000575036
+critical_P4,0.34114000003319234
+critical_P8,0.3439318999880925

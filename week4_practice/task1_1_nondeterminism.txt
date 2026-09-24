@@ -1,0 +1,60 @@
+=== Run 1 ===
+[Master] Logical Rank: 0 of 4 | Native OS TID: 7080
+[Worker] Logical Rank: 1 of 4 | Native OS TID: 7080
+[Worker] Logical Rank: 2 of 4 | Native OS TID: 8328
+[Worker] Logical Rank: 3 of 4 | Native OS TID: 10124
+
+=== Run 2 ===
+[Master] Logical Rank: 0 of 4 | Native OS TID: 26964
+[Worker] Logical Rank: 1 of 4 | Native OS TID: 26964
+[Worker] Logical Rank: 2 of 4 | Native OS TID: 25640
+[Worker] Logical Rank: 3 of 4 | Native OS TID: 7392
+
+=== Run 3 ===
+[Master] Logical Rank: 0 of 4 | Native OS TID: 26036
+[Worker] Logical Rank: 1 of 4 | Native OS TID: 26036
+[Worker] Logical Rank: 2 of 4 | Native OS TID: 27548
+[Worker] Logical Rank: 3 of 4 | Native OS TID: 26036
+
+=== Run 4 ===
+[Master] Logical Rank: 0 of 4 | Native OS TID: 11924
+[Worker] Logical Rank: 1 of 4 | Native OS TID: 11924
+[Worker] Logical Rank: 2 of 4 | Native OS TID: 4628
+[Worker] Logical Rank: 3 of 4 | Native OS TID: 25740
+
+=== Run 5 ===
+[Master] Logical Rank: 0 of 4 | Native OS TID: 13588
+[Worker] Logical Rank: 1 of 4 | Native OS TID: 13588
+[Worker] Logical Rank: 2 of 4 | Native OS TID: 18352
+[Worker] Logical Rank: 3 of 4 | Native OS TID: 19552
+
+=== Run 6 ===
+[Master] Logical Rank: 0 of 4 | Native OS TID: 10976
+[Worker] Logical Rank: 1 of 4 | Native OS TID: 10976
+[Worker] Logical Rank: 2 of 4 | Native OS TID: 3044
+[Worker] Logical Rank: 3 of 4 | Native OS TID: 19260
+
+=== Run 7 ===
+[Master] Logical Rank: 0 of 4 | Native OS TID: 15544
+[Worker] Logical Rank: 1 of 4 | Native OS TID: 15544
+[Worker] Logical Rank: 2 of 4 | Native OS TID: 6680
+[Worker] Logical Rank: 3 of 4 | Native OS TID: 20200
+
+=== Run 8 ===
+[Master] Logical Rank: 0 of 4 | Native OS TID: 20092
+[Worker] Logical Rank: 1 of 4 | Native OS TID: 20092
+[Worker] Logical Rank: 2 of 4 | Native OS TID: 25440
+[Worker] Logical Rank: 3 of 4 | Native OS TID: 20092
+
+=== Run 9 ===
+[Master] Logical Rank: 0 of 4 | Native OS TID: 13408
+[Worker] Logical Rank: 1 of 4 | Native OS TID: 13408
+[Worker] Logical Rank: 2 of 4 | Native OS TID: 1660
+[Worker] Logical Rank: 3 of 4 | Native OS TID: 10372
+
+=== Run 10 ===
+[Master] Logical Rank: 0 of 4 | Native OS TID: 7976
+[Worker] Logical Rank: 1 of 4 | Native OS TID: 7976
+[Worker] Logical Rank: 2 of 4 | Native OS TID: 23744
+[Worker] Logical Rank: 3 of 4 | Native OS TID: 25716
+
